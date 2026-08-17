@@ -1,1 +1,6 @@
-*`n!NovaX.sh
+*
+!NovaX.sh
+!manifest.json
+!gen_driver_manifest.py
+!drivers/
+!drivers/**

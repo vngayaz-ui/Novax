@@ -1,0 +1,999 @@
+{
+  "version": 1,
+  "driver_count": 159,
+  "drivers": [
+    {
+      "file": "drivers/FT-Bing/4.14.117.sh",
+      "kernel": "4.14.117",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.14.141.sh",
+      "kernel": "4.14.141",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.14.141b.sh",
+      "kernel": "4.14.141",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.14.180.sh",
+      "kernel": "4.14.180",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.14.180b.sh",
+      "kernel": "4.14.180",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.14.186.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.14.186b.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.14.186c.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.109.sh",
+      "kernel": "4.19.109",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.113.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.113b.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.157-ColorOS.sh",
+      "kernel": "4.19.157",
+      "brand": "coloros",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.157.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.157b.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.191-ColorOS.sh",
+      "kernel": "4.19.191",
+      "brand": "coloros",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.191.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.191b-ColorOS.sh",
+      "kernel": "4.19.191",
+      "brand": "coloros",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.19.81.sh",
+      "kernel": "4.19.81",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/4.9.186.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.10.136.sh",
+      "kernel": "5.10.136",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.10.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.15.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.147.sh",
+      "kernel": "5.4.147",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.191oneplus.sh",
+      "kernel": "5.4.191",
+      "brand": "oneplus",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.210-ColorOS.sh",
+      "kernel": "5.4.210",
+      "brand": "coloros",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.233-ColorOS.sh",
+      "kernel": "5.4.233",
+      "brand": "coloros",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.233.sh",
+      "kernel": "5.4.233",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.233oneplus.sh",
+      "kernel": "5.4.233",
+      "brand": "oneplus",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.61.sh",
+      "kernel": "5.4.61",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/5.4.86.sh",
+      "kernel": "5.4.86",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/6.1.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/6.12.sh",
+      "kernel": "6.12",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/6.6.sh",
+      "kernel": "6.6",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/oppo4.19.81.sh",
+      "kernel": "4.19.81",
+      "brand": "oppo",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/FT-Bing/oppoa92s4.14.186.sh",
+      "kernel": "4.14.186",
+      "brand": "oppo",
+      "type": "selfextract",
+      "model": "a92s"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.14.117/load.sh",
+      "kernel": "4.14.117",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.14.117/4.14.117.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.14.180/load.sh",
+      "kernel": "4.14.180",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.14.180/4.14.180.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.14.186/load.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.14.186/4.14.186.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.14.186-oneplus/load.sh",
+      "kernel": "4.14.186",
+      "brand": "oneplus",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.14.186-oneplus/4.14.186.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.19.113/load.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.19.113/4.19.113.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.19.157/load.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.19.157/4.19.157.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.19.191/load.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.19.191/4.19.191.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.19.81/load.sh",
+      "kernel": "4.19.81",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.19.81/4.19.81.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/4.9.186/load.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/4.9.186/4.9.186.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/5.10/load.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/5.10/5.10.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/5.15/load.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/5.15/5.15.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/5.4-oneplus/load.sh",
+      "kernel": "5.4",
+      "brand": "oneplus",
+      "type": "insmod",
+      "module": "GT/GT V1.7/5.4-oneplus/5.4.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/5.4-xiaomi/load.sh",
+      "kernel": "5.4",
+      "brand": "xiaomi",
+      "type": "insmod",
+      "module": "GT/GT V1.7/5.4-xiaomi/5.4.ko"
+    },
+    {
+      "file": "drivers/GT/GT V1.7/6.1/load.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V1.7/6.1/6.1.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/4.14.186/load.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/4.14.186/4.14.186.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/4.19.157/load.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/4.19.157/4.19.157.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/4.9.186/load.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/4.9.186/4.9.186.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/5.10/load.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/5.10/5.10.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/5.15/load.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/5.15/5.15.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/5.4/load.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/5.4/5.4.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/6.1/load.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/6.1/6.1.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.1/6.6/load.sh",
+      "kernel": "6.6",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.1/6.6/6.6.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/4.14.186/load.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/4.14.186/4.14.186.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/4.19.157/load.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/4.19.157/4.19.157.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/4.9.186/load.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/4.9.186/4.9.186.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/5.10/load.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/5.10/5.10.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/5.15/load.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/5.15/5.15.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/5.4/load.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/5.4/5.4.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/6.1/load.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/6.1/6.1.ko"
+    },
+    {
+      "file": "drivers/GT/GT V2.2/6.6/load.sh",
+      "kernel": "6.6",
+      "brand": "all",
+      "type": "insmod",
+      "module": "GT/GT V2.2/6.6/6.6.ko"
+    },
+    {
+      "file": "drivers/Hell/4.14.117.sh",
+      "kernel": "4.14.117",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.14.141.sh",
+      "kernel": "4.14.141",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.14.180.sh",
+      "kernel": "4.14.180",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.14.186.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.14.186b.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.14.186c.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.14.190.sh",
+      "kernel": "4.14.190",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.113.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.157.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.157b.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.157c.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.191.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.191b.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.191c.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.19.81.sh",
+      "kernel": "4.19.81",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/4.9.186.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/5.10.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/5.15.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/5.4.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/5.4b.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/5.4c.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/6.1.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/6.12.sh",
+      "kernel": "6.12",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/Hell/6.6.sh",
+      "kernel": "6.6",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/KPM/kma_v6.12.708.kpm",
+      "kernel": "6.12.708",
+      "brand": "all",
+      "type": "kpm"
+    },
+    {
+      "file": "drivers/QX10/4.14.117.ko.sh",
+      "kernel": "4.14.117",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.14.180.ko.sh",
+      "kernel": "4.14.180",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.14.186.ko.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.14.186b.ko.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.14.186c.ko.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.19.113.ko.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.19.113c.ko.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.19.157b.ko.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.19.191-note12pro-A13.ko.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract",
+      "model": "note12pro"
+    },
+    {
+      "file": "drivers/QX10/4.19.81.ko.sh",
+      "kernel": "4.19.81",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/4.9.186.ko.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/qqxx4.19.157.ko.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/5.10/5.10-Pixel.ko.sh",
+      "kernel": "5.10",
+      "brand": "pixel",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/5.10/5.10.ko.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/5.10/5.10b.ko.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/5.15/5.15.ko.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/5.4/5.4.147~256.ko.sh",
+      "kernel": "5.4.147",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/5.4/5.4.61~256.ko.sh",
+      "kernel": "5.4.61",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/5.4/5.4.86~256.ko.sh",
+      "kernel": "5.4.86",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/6.1/6.1.ko.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/QX10/OPPO Realme 一加/4.19.157-ColorOS-A13.ko.sh",
+      "kernel": "4.19.157",
+      "brand": "coloros",
+      "type": "selfextract",
+      "model": "a13"
+    },
+    {
+      "file": "drivers/QX10/OPPO Realme 一加/4.19.191-ColorOS-A13.ko.sh",
+      "kernel": "4.19.191",
+      "brand": "coloros",
+      "type": "selfextract",
+      "model": "a13"
+    },
+    {
+      "file": "drivers/QX10/OPPO Realme 一加/5.4.210-ColorOS-A13.ko.sh",
+      "kernel": "5.4.210",
+      "brand": "coloros",
+      "type": "selfextract",
+      "model": "a13"
+    },
+    {
+      "file": "drivers/QX10/OPPO Realme 一加/5.4.233-ColorOS-A14.ko.sh",
+      "kernel": "5.4.233",
+      "brand": "coloros",
+      "type": "selfextract",
+      "model": "a14"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.14.117.sh",
+      "kernel": "4.14.117",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.14.141.sh",
+      "kernel": "4.14.141",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.14.180.sh",
+      "kernel": "4.14.180",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.14.186.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.14.186b.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.14.186c.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.14.190.sh",
+      "kernel": "4.14.190",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.113.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.157.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.157b.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.157c.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.191.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.191b.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.191c.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.19.81.sh",
+      "kernel": "4.19.81",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/4.9.186.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/5.10.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/5.15.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/5.4.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/5.4b.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/6.1.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-devpro+/6.6.sh",
+      "kernel": "6.6",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.14.117.sh",
+      "kernel": "4.14.117",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.14.180.sh",
+      "kernel": "4.14.180",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.14.186.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.14.186b.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.14.186c.sh",
+      "kernel": "4.14.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.19.113.sh",
+      "kernel": "4.19.113",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.19.157.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.19.157b.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.19.157c.sh",
+      "kernel": "4.19.157",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.19.191.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.19.191b.sh",
+      "kernel": "4.19.191",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.19.81.sh",
+      "kernel": "4.19.81",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/4.9.186.sh",
+      "kernel": "4.9.186",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/5.10.sh",
+      "kernel": "5.10",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/5.15.sh",
+      "kernel": "5.15",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/5.4.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/5.4b.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/5.4c.sh",
+      "kernel": "5.4",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/6.1.sh",
+      "kernel": "6.1",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/6.6.sh",
+      "kernel": "6.6",
+      "brand": "all",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/KPM/Hell.kpm",
+      "kernel": "any",
+      "brand": "all",
+      "model": "hell",
+      "type": "kpm"
+    },
+    {
+      "file": "drivers/QX10/xiaomi_sm8350-Voyager.ko.sh",
+      "kernel": "any",
+      "brand": "xiaomi",
+      "model": "sm8350",
+      "type": "selfextract"
+    },
+    {
+      "file": "drivers/RT-proc/note12pro.sh",
+      "kernel": "any",
+      "brand": "xiaomi",
+      "model": "note12pro",
+      "type": "selfextract"
+    }
+  ]
+}
