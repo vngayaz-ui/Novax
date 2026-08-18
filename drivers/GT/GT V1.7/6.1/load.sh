@@ -1,1 +1,0 @@
-insmod 6.1.ko
